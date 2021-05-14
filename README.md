@@ -14,13 +14,14 @@ Esta é a minha solução para  o desafio: [Social proof section challenge on Fr
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/80429145/118333874-e73bda00-b4e2-11eb-86c6-03e92b2d3622.png)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/socialproofsectionsolution-ycJYMWcW0
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://rafaelmfs.github.io/Social-proof-section-solution/
 
   
 
